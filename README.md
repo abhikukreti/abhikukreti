@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate with Web Developers and ML Engineers.
 - 📫 How to reach me gmail- abhikukrety003@gmail.com
 - 😄 Pronouns: HE/Him
-- ⚡ Fun fact: When I'm not coding, I'm creating fun gym reels on Instagram!
+- ⚡ Fun fact: After one shot of alcohol, concentration improves.
+
 
 <!---
 abhikukreti/abhikukreti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
